@@ -1,9 +1,6 @@
-rooted-graphene OTA
-===
+This OTA comes in different flavors, where each might support different devices.
 
-See [rooted-graphene](https://github.com/schnatterer/rooted-graphene/) for more details.
+Choose a flavor and set it as the URL in [Custota](https://github.com/chenxiaolong/Custota#usage).
 
-This repo executes the builds for the actual OTAs.
-
-You can find the OTA server URLs here:  
-https://rooted-graphene.github.io/ota/
+* [magisk](magisk)
+* [rootless](rootless)
